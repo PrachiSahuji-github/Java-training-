@@ -1,0 +1,7 @@
+12345AAAAAAAAAA
+print data on new line
+yes it is aapened on new line
+12345Hello Hello ABC
+
+Hello JAVA
+This is for testing code
